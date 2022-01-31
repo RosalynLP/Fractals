@@ -1,2 +1,2 @@
 # Fractals
-Jupyter notebook for plotting Mandelbrot and Julia sets.
+Python script for plotting Mandelbrot and Julia sets. Used for teaching purposes.
